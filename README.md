@@ -2,7 +2,7 @@
 
 > I'm Leonardo Valente.
 
-> I am Front-End and Mobile developer, and an enthusiast of desktop development.
+> I am Front-End, Mobile and Desktop developer.
 
 ## Technologies
 <section>
